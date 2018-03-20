@@ -1,0 +1,25 @@
+h1 {
+  font-family: "Times New Roman";
+  text-align: center;
+  font-size: 90px;
+  font-family: "Courier";
+  background
+  color: 	#4682B4;
+  padding: 0px;
+  margin: 0px;
+  background:linear-gradient(MidnightBlue,DodgerBlue  );
+} 
+
+  .img {
+  border: solid 10px black;
+  margin-left:25%;
+  width:50%;}
+
+.dog{
+
+  font-family:Times New Romans;
+  font-size:50px;
+  text-align:center;
+  color:darkgoldenrod
+}
+  body{background:linear-gradient(black,#383838);}
